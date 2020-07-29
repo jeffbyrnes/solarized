@@ -1,3 +1,6 @@
 [submodule "jquerymobile"]
 	path = jquerymobile
 	url = https://github.com/kimslawson/solarized-jquerymobile.git
+[submodule "tmux-colors-solarized"]
+	path = tmux-colors-solarized
+	url = git@github.com:seebi/tmux-colors-solarized.git
